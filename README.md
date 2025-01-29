@@ -22,6 +22,8 @@ EDA involved exploring mortgage rates and the sale price for houses sold to answ
  - Are there noticeable long-term trends in housing prices and interest rates?
  - Are there any unusual spikes or drops in home prices or mortgage rates?
  - What external factors might explain anomalies?
+![image](https://github.com/user-attachments/assets/a55af022-58b6-4e84-a5ad-bb63e1cef4b2)
+
 
 ### Data Analysis
 ``` Python
@@ -51,6 +53,11 @@ plt.xticks(ticks=range(12), labels=['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
 plt.grid(axis='y', linestyle='--', alpha=0.7)
 plt.show()
 ```
+
+![image](https://github.com/user-attachments/assets/ea283ec6-56e0-4ffd-9f0e-0d5b94d371d3)
+![image](https://github.com/user-attachments/assets/36e86415-8caf-4630-86ff-09190ffe081e)
+![image](https://github.com/user-attachments/assets/5c7859e4-cd5a-42e4-9b7a-3ae19a316f1a)
+
 
 ### Results/ Finding
 From the plot of time series decomposition, I draw the following insights that will equip homebuyers and investors with valuable information:
