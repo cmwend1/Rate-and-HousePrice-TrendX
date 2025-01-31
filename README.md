@@ -2,7 +2,7 @@
 Extracting insights from mortgage rates and house prices
 ### Project Overview
 
-This project analyzes historical trends in average house prices and mortgage rates using time series decomposition techniques. By breaking down these variables into trend, seasonal, and residual components, it seeks to understand the underlying patterns of housing prices and lending rates. It will give homebuyers insights into the best times to buy or sell properties, providing a reliable guide for their decisions. Similarly, it will assist investors in making data-driven decisions on property investments, offering a reassuring tool for their strategies. The datasets are collected from the Federal Reserve Economic Data (FRED).
+This project analyzes historical trends in average house prices and mortgage interest rates using time series decomposition techniques. By breaking down these variables into trend, seasonal, and residual components, it seeks to understand the underlying patterns of housing prices and lending rates. It will give homebuyers insights into the best times to buy or sell properties, providing a reliable guide for their decisions. Similarly, it will assist investors in making data-driven decisions on property investments, offering a reassuring tool for their strategies. The datasets are collected from the Federal Reserve Economic Data (FRED).
 
 ### Data Source
 
